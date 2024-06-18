@@ -1,0 +1,137 @@
+body {
+    background-color: #1f2335;
+}
+
+.bg-primary {
+    background: #c53b53;
+}
+
+.q-menu {
+    background-color: #1f2335;
+}
+
+.q-card {
+    background: #1f2335;
+}
+
+.q-item.q-hoverable:hover {
+    background-color: #394b70;
+}
+
+.immersive-tab .q-card {
+    background: none;
+}
+
+.hero-card .q-card {
+    background: none;
+}
+
+.section .mediaitem-card {
+    background: none;
+}
+
+.settings-window {
+    --bgColor: #1f2335;
+}
+
+.left-drawer-resize-handle:before {
+    background: #ffc777;
+}
+
+.right-drawer-resize-handle:before {
+    background: #ffc777;
+}
+
+.grouping-container .grouping-btn {
+    color: #a9b1d6;
+}
+
+.grouping-container .grouping-btn:after {
+    color: #7dcfff;
+}
+
+.lockupControls .menu:hover {
+    background: #4fd6be;
+}
+
+.lockupControls .play:hover {
+    background: #4fd6be;
+}
+
+input[type='checkbox'][switch]:checked {
+    background: #3d59a1;
+    border: 0 solid #3d59a1;
+}
+
+[sfc-name='HeaderSearch'] {
+    .search-box {
+        background: #171a27;
+    }
+}
+
+[sfc-name='NavigationButton'] {
+    .nav-icon {
+        color: #c53b53;
+    }
+}
+
+[sfc-name='BaseTransition'] {
+    .sidebar_nav-btn {
+        color: #a9b1d6;
+    }
+    .sidebar_nav-btn:active {
+        background: #394b70;
+    }
+    .sidebar_nav-btn.active {
+        background: #394b70;
+    }
+}
+
+[sfc-name='FCol'] {
+    .menu-btn ._svg-icon {
+        background: #c53b53;
+    }
+}
+
+[sfc-name='KeepAlive'] {
+    .header-frow {
+        background-color: #1f2335;
+    }
+    .sortable-header:before {
+        background-color: #c53b53;
+    }
+}
+[sfc-name='LibrarySongs'] {
+    .header-frow {
+        background-color: #1f2335;
+    }
+    .sortable-header:before {
+        background-color: #c53b53;
+    }
+}
+
+[sfc-name='AddToLibraryButton'] {
+    .add-to-library-btn {
+        color: #9d7cd8;
+    }
+}
+
+.more-btn {
+    color: #9d7cd8;
+}
+
+.more-btn ._svg-icon {
+    background: #9d7cd8;
+}
+
+.artist-chip .chip-name.name-only {
+    color: #ff757f;
+}
+
+.detail-actions .primary-actions .button {
+    background-color: #7aa2f7;
+}
+
+.profile-tab .profile-btn.active {
+    background-color: #394b70;
+}

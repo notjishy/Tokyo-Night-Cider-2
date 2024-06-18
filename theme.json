@@ -1,0 +1,11 @@
+{
+    "author": "Jishy",
+    "identifier": "com.tokyo-night.theme",
+    "name": "Tokyo Night Theme",
+    "styles": [
+        {
+            "name": "Main",
+            "entry": "style.scss"
+        }
+    ]
+}
