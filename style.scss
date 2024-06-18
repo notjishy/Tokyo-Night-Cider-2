@@ -2,10 +2,6 @@ body {
     background-color: #1f2335;
 }
 
-.bg-primary {
-    background: #c53b53;
-}
-
 .q-menu {
     background-color: #1f2335;
 }
@@ -47,7 +43,7 @@ body {
 }
 
 .grouping-container .grouping-btn:after {
-    color: #7dcfff;
+    color: #ffc777;
 }
 
 .lockupControls .menu:hover {
@@ -58,9 +54,17 @@ body {
     background: #4fd6be;
 }
 
+.menu-btn ._svg-icon {
+    background: #9d7cd8;
+}
+
+.hud-tabs.settings-qtabs .q-tab[aria-selected='true'] {
+    color: #7aa2f7;
+}
+
 input[type='checkbox'][switch]:checked {
-    background: #3d59a1;
-    border: 0 solid #3d59a1;
+    background: #7aa2f7;
+    border: 0 solid #7aa2f7;
 }
 
 [sfc-name='HeaderSearch'] {
@@ -71,7 +75,7 @@ input[type='checkbox'][switch]:checked {
 
 [sfc-name='NavigationButton'] {
     .nav-icon {
-        color: #c53b53;
+        color: #9d7cd8;
     }
 }
 
@@ -85,11 +89,9 @@ input[type='checkbox'][switch]:checked {
     .sidebar_nav-btn.active {
         background: #394b70;
     }
-}
 
-[sfc-name='FCol'] {
-    .menu-btn ._svg-icon {
-        background: #c53b53;
+    .nav-icon .q-icon {
+        color: #c53b53;
     }
 }
 
@@ -98,7 +100,7 @@ input[type='checkbox'][switch]:checked {
         background-color: #1f2335;
     }
     .sortable-header:before {
-        background-color: #c53b53;
+        background-color: #9d7cd8;
     }
 }
 [sfc-name='LibrarySongs'] {
@@ -106,7 +108,7 @@ input[type='checkbox'][switch]:checked {
         background-color: #1f2335;
     }
     .sortable-header:before {
-        background-color: #c53b53;
+        background-color: #9d7cd8;
     }
 }
 
@@ -114,6 +116,26 @@ input[type='checkbox'][switch]:checked {
     .add-to-library-btn {
         color: #9d7cd8;
     }
+}
+
+.add-to-library-btn-compact {
+    color: #9d7cd8;
+}
+
+.q-item__label {
+    color: #a9b1d6;
+}
+
+.q-item .q-item__section {
+    color: #a9b1d6;
+}
+
+.menu-btn .q-icon {
+    color: #9d7cd8;
+}
+
+.bg-primary {
+    background: #7aa2f7;
 }
 
 .more-btn {
