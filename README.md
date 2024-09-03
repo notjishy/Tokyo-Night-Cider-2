@@ -1,3 +1,5 @@
+## ⚠️⚠️ As of Cider version 2.5.0 this theme is outdated. I will be working to update the theme in response to the new changes and then will submit the updated one to the official built-in themes page in Cider.
+
 ## Tokyo Night theme for Cider 2.0
 
 This a custom theme made for [Cider 2.0](https://cider.sh/) using the popular "Tokyo Night" color pallette.
