@@ -1,4 +1,4 @@
-## ⚠️⚠️ As of Cider version 2.5.0 this theme is outdated. I will be working to update the theme in response to the new changes and then will submit the updated one to the official built-in themes page in Cider.
+## ⚠️⚠️ As of Cider version 2.5.0 this theme is outdated.
 
 ## Tokyo Night theme for Cider 2.0
 
